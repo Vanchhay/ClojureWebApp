@@ -33,3 +33,7 @@ Successfully compiled build :app to "target/cljsbuild/public/js/app.js" in 1.738
 notifying browser that file changed:  target\cljsbuild\public\js\out\plusapp\core.js
 Notifying browser that CSS file changed: resources/public/css/screen.css
 Notifying browser that CSS file changed: resources/public/css/screen.css
+Notifying browser that CSS file changed: resources/public/css/screen.css
+Notifying browser that CSS file changed: resources/public/css/screen.css
+Notifying browser that CSS file changed: resources/public/css/nv.d3.css
+Notifying browser that CSS file changed: resources/public/css/nv.d3.css
